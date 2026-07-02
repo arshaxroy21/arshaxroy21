@@ -1,0 +1,6 @@
+{
+  "name": "سیستم جامع مدیریت مشتریان و فروش",
+  "description": "سامانه یکپارچه ثبت اطلاعات مشتریان، خرید محصولات سه گانه و داشبوردهای تخصصی مدیریت سیستم، مالی و فروش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
